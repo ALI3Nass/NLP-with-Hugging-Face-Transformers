@@ -11,13 +11,13 @@ To run this script, you need the following dependencies:
 - \`tensorflow\`
 - \`keras\`
 
-You can install the necessary Python packages using pip:
+You can install the necessary Python packages using pip
 
 ## How to Run
 
-1. **Clone the repository:**
+1. **Clone the repository**
 
-2. **Install the dependencies:**
+2. **Install the dependencies**
 
-3. **Run the script:**
+3. **Run the script**
 
